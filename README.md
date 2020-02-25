@@ -11,7 +11,7 @@
 --------------------------
 # Thoughts
 --------------------------
-- [ ] What's the problem your app solves?
+- [ ] What's the problem your product solves?
 - [ ] What's the solution towards the problem you mentioned?
 - [ ] How this product changes the prople, community, or the world?
 - [ ] What do you want to be remembered for through this product?
@@ -70,10 +70,10 @@
 ----------------------------------------
 - [ ] Title Tag
 - [ ] Url Normalization
-- [x] Meta Description
-- [x] Head Tag (h1, h2, ...)
-- [x] Markup
-- [x] Https
+- [ ] Meta Description
+- [ ] Head Tag (h1, h2, ...)
+- [ ] Markup
+- [ ] Https
 - [ ] Rendering Speed
   - https://developers.google.com/speed/pagespeed/insights/?hl=ja
   - https://www.thinkwithgoogle.com/intl/ja-jp/feature/testmysite/
