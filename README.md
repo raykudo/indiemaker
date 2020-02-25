@@ -95,11 +95,12 @@
 ----------------------------------------
 # Marketing
 ----------------------------------------
+- [ ] Read
+  - [How to find earliest users](http://bit.ly/2CwNvbI)
 - [ ] Create SNS Accounts
   - Twitter
   - Facebook Page
   - Instagram
-- [ ] [How to find earliest users](http://bit.ly/2CwNvbI)
 - [ ] Facebook Group
 - [ ] Product Hunt
 - [ ] Indiemaker
