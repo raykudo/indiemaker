@@ -39,7 +39,7 @@
  - [Artboard](https://artboard.studio/)
 - [ ] Prototype
 - [ ] Icons
- - [Tilda](Tilda icons)
+ - [Tilda](https://tilda.cc/free-icons/)
 - [ ] Logo
  - [Hatchful](https://hatchful.shopify.com)
 - [ ] Favicon
@@ -76,8 +76,8 @@
 - [x] Markup
 - [x] Https
 - [ ] Rendering Speed
-  - https://developers.google.com/speed/pagespeed/insights/?hl=ja
-  - https://www.thinkwithgoogle.com/intl/ja-jp/feature/testmysite/
+  - [ ] [Speed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=ja)
+  - [ ] [Mobile Speed Check](https://www.thinkwithgoogle.com/intl/ja-jp/feature/testmysite/)
 - [ ] Sitemap.xml
 - [ ] Robots.txt
 - [ ] Inner links
@@ -91,17 +91,19 @@
 - [ ] Cache setting
 - [ ] Url normalization
 - [ ] Security
-  - https://securityheaders.com/
+  - [ ] [Test secrity checker](https://securityheaders.com/)
 - [ ] DB Optimization
+  - [ ] check if index is appropriate
+  - [ ] check if data amount increases would be a problem
 
 ----------------------------------------
 # Marketing
 ----------------------------------------
+- [ ] [Read How to find earliest users](http://bit.ly/2CwNvbI)
 - [ ] Create SNS Accounts
-  - Twitter
-  - Facebook Page
-  - Instagram
-- [ ] [How to find earliest users](http://bit.ly/2CwNvbI)
+  - [ ] Twitter
+  - [ ] Facebook Page
+  - [ ] Instagram
 - [ ] Facebook Group
 - [ ] Product Hunt
 - [ ] Indiemaker
