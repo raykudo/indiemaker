@@ -78,6 +78,7 @@
 - [ ] Rendering Speed
   - [ ] [Speed Insight](https://developers.google.com/speed/pagespeed/insights/)
   - [ ] [Mobile Speed Check](https://www.thinkwithgoogle.com/feature/testmysite/)
+  - [ ] [web.dev](https://web.dev/measure/)
 - [ ] Sitemap.xml
 - [ ] Robots.txt
 - [ ] Inner links
