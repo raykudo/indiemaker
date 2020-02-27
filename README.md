@@ -81,7 +81,7 @@
 - [ ] Rendering Speed
   - [ ] [Speed Insight](https://developers.google.com/speed/pagespeed/insights/)
   - [ ] [Mobile Speed Check](https://www.thinkwithgoogle.com/feature/testmysite/)
-  - [ ] [web.dev](https://web.dev/measure/)
+  - [ ] [Web.dev](https://web.dev/measure/)
   - [ ] [WebpageTest](https://www.webpagetest.org/)
 - [ ] Sitemap.xml
 - [ ] Robots.txt
