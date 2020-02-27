@@ -84,6 +84,7 @@
 - [ ] Google Search Console
 - [ ] Google Analytics
 - [ ] Connect Google Analytics & Google Search Console
+- [ ] Hotjar
 
 ----------------------------------------
 # Deploy
