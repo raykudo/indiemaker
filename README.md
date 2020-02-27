@@ -76,8 +76,8 @@
 - [x] Markup
 - [x] Https
 - [ ] Rendering Speed
-  - [ ] [Speed Insight](https://developers.google.com/speed/pagespeed/insights/?hl=ja)
-  - [ ] [Mobile Speed Check](https://www.thinkwithgoogle.com/intl/ja-jp/feature/testmysite/)
+  - [ ] [Speed Insight](https://developers.google.com/speed/pagespeed/insights/)
+  - [ ] [Mobile Speed Check](https://www.thinkwithgoogle.com/feature/testmysite/)
 - [ ] Sitemap.xml
 - [ ] Robots.txt
 - [ ] Inner links
