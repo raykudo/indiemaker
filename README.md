@@ -62,6 +62,9 @@
     - [Unsplash](https://unsplash.com/)
     - [Pixelmob](https://pixelmob.co/)
 - [ ] HTML/JS/CSS Minification
+- [ ] Reduce First Page CSS
+  - [ ] [Critical Path CSS Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
+- [ ] Check Chrome dev tool to gauge performance
 - [ ] Image Minification
 - [ ] Mobile
 
@@ -71,14 +74,15 @@
 - [ ] Title Tag
 - [ ] Url Normalization
   - transfer www to non wwww
-- [x] Meta Description
-- [x] Head Tag (h1, h2, ...)
-- [x] Markup
-- [x] Https
+- [ ] Meta Description
+- [ ] Head Tag (h1, h2, ...)
+- [ ] Markup
+- [ ] Https
 - [ ] Rendering Speed
   - [ ] [Speed Insight](https://developers.google.com/speed/pagespeed/insights/)
   - [ ] [Mobile Speed Check](https://www.thinkwithgoogle.com/feature/testmysite/)
   - [ ] [web.dev](https://web.dev/measure/)
+  - [ ] [WebpageTest](https://www.webpagetest.org/)
 - [ ] Sitemap.xml
 - [ ] Robots.txt
 - [ ] Inner links
