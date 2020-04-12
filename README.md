@@ -50,6 +50,8 @@
 # Development
 ----------------------------------------
 - [ ] Build an app
+  - Auth
+    - [Auth0](https://auth0.com/)
   - Regex
     - [Regex Tool](https://regexr.com/)
   - File/Image
