@@ -18,6 +18,11 @@
 - [ ] Do you think you can monetize through this product
 
 ----------------------------------------
+# Tools
+----------------------------------------
+- [Indie Maker Tools](https://www.indiemakers.tools/)
+
+----------------------------------------
 # Design
 ----------------------------------------
 - [ ] Understand Design
