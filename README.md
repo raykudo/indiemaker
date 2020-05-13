@@ -80,7 +80,7 @@
 ----------------------------------------
 - [ ] Title Tag
 - [ ] Url Normalization
-  - transfer www to non wwww
+  - transfer www to non www
 - [ ] Meta Description
 - [ ] Head Tag (h1, h2, ...)
 - [ ] Markup
