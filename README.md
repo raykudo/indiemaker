@@ -28,6 +28,9 @@
 - [ ] Understand Design
  - [7 Rules for Creating Gorgeous UI - Part1](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
  - [7 Rules for Creating Gorgeous UI - Part2](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
+- [ ] Find Similar Web Design to what you wanna build
+  - [awwwards](https://www.awwwards.com/)
+  - [uimovement](https://uimovement.com/)
 - [ ] Sketch
  - [sneakpeekit](http://sneakpeekit.com/)
 - [ ] Wireframe
