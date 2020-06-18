@@ -1,21 +1,21 @@
 -------------------------
 # Idea Validations
 -------------------------
-- [ ] Do you have a passion to build this product?
-- [ ] Are you sure you're not gonna regret spending your time to build this product?
-- [ ] Do you think it's creative for you?
-- [ ] Can you work this product at least for a few years?
-- [ ] Are you involved with that problem your product gonna solve?
-- [ ] Are you personally familiar with the problem you're solving?
+- [ ] Do you have a passion to build this product
+- [ ] Are you sure you're not gonna regret spending your time to build this product
+- [ ] Can you continue to work for this product at least for a few years
+- [ ] Are you personally familiar with the problem you're solving
+- [ ] Do you walk the talk through making this product
+- [ ] Does this product follow your aethtetic
 
 --------------------------
 # Thoughts
 --------------------------
-- [ ] What's the problem your app solves?
-- [ ] What's the solution towards the problem you mentioned?
-- [ ] How this product changes the prople, community, or the world?
-- [ ] What do you want to be remembered for through this product?
-- [ ] Do you think you can monetize through this product
+- [ ] What's the problem your app solves
+- [ ] What's the solution your app suggests to solve that problem
+- [ ] How this product changes the prople, community, or the world
+- [ ] What do you want to be remembered for through this product
+- [ ] How do you monetize through this product
 
 ----------------------------------------
 # Tools
