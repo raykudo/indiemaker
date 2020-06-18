@@ -96,7 +96,7 @@
 - [ ] Markup
 - [ ] Https
 - [ ] Rendering Speed
-  - [ ] [Speed Insight](https://developers.google.com/speed/pagespeed/insights/)
+  - [ ] [Why you Shouldn’t Care About Google PageSpeed Insights](https://wp-rocket.me/blog/the-truth-about-google-pagespeed-insights/)
   - [ ] [Mobile Speed Check](https://www.thinkwithgoogle.com/feature/testmysite/)
   - [ ] [Web.dev](https://web.dev/measure/)
   - [ ] [WebpageTest](https://www.webpagetest.org/)
