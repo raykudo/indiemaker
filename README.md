@@ -116,6 +116,7 @@
 # Marketing
 ----------------------------------------
 - [ ] [Read How to find earliest users](http://bit.ly/2CwNvbI)
+- [ ] [PlacesToPostYourStartup](https://github.com/mrcrilly/PlacesToPostYourStartup)
 - [ ] Create SNS Accounts
   - [ ] Twitter
   - [ ] Facebook Page
