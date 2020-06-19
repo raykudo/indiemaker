@@ -115,6 +115,13 @@
 - [ ] Url normalization
 - [ ] Security
   - [ ] [Test secrity checker](https://securityheaders.com/)
+  - [ ] Firewall Check
+  - [ ] DDos
+  - [ ] SYNflood
+  - [ ] ICMP
+  - [ ] SSH Port Change, Key Authentication, Forbid PW Authentication and Root Login
+  - [ ] Take SnapShot
+  - [ ] DB Backup
 - [ ] DB Optimization
   - [ ] check if index is appropriate
   - [ ] check if data amount increases would be a problem
