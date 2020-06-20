@@ -86,6 +86,30 @@
 - [ ] Mobile
 
 ----------------------------------------
+# Deploy
+----------------------------------------
+- [ ] SSH
+  - [ ] Change SSH port: Allow multiple ssh ports first in order not to get locked out
+  - [ ] Enable Key Authentication
+  - [ ] Forbid PW Authentication
+  - [ ] Forbid Root Login
+  - [ ] Make sure Firewall enabled
+- [ ] Deploy Developed App
+- [ ] Cache setting
+- [ ] Url normalization
+- [ ] Security
+  - [ ] [Test secrity checker](https://securityheaders.com/)
+  - [ ] Firewall Check
+  - [ ] DDos
+  - [ ] SYNflood
+  - [ ] ICMP
+  - [ ] Take SnapShot
+  - [ ] DB Backup
+- [ ] DB Optimization
+  - [ ] check if index is appropriate
+  - [ ] check if data amount increases would be a problem
+
+----------------------------------------
 # Optimization
 ----------------------------------------
 - [ ] Title Tag
@@ -107,24 +131,6 @@
 - [ ] Google Analytics
 - [ ] Connect Google Analytics & Google Search Console
 - [ ] Hotjar
-
-----------------------------------------
-# Deploy
-----------------------------------------
-- [ ] Cache setting
-- [ ] Url normalization
-- [ ] Security
-  - [ ] [Test secrity checker](https://securityheaders.com/)
-  - [ ] Firewall Check
-  - [ ] DDos
-  - [ ] SYNflood
-  - [ ] ICMP
-  - [ ] SSH Port Change, Key Authentication, Forbid PW Authentication and Root Login
-  - [ ] Take SnapShot
-  - [ ] DB Backup
-- [ ] DB Optimization
-  - [ ] check if index is appropriate
-  - [ ] check if data amount increases would be a problem
 
 ----------------------------------------
 # Marketing
