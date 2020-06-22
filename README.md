@@ -103,8 +103,8 @@
   - [ ] DDos
   - [ ] SYNflood
   - [ ] ICMP
-  - [ ] Take SnapShot
-  - [ ] DB Backup
+  - [ ] Server Auto Backup
+  - [ ] DB Auto Backup
 - [ ] DB Optimization
   - [ ] check if index is appropriate
   - [ ] check if data amount increases would be a problem
