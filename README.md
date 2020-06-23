@@ -79,11 +79,6 @@
     - [Stocksy](https://www.stocksy.com/)
     - [Unsplash](https://unsplash.com/)
     - [Pixelmob](https://pixelmob.co/)
-- [ ] HTML/JS/CSS Minification
-- [ ] Reduce First Page CSS
-  - [ ] [Critical Path CSS Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
-- [ ] Check Chrome dev tool to gauge performance
-- [ ] Image Minification
 
 ----------------------------------------
 # Deploy
@@ -122,6 +117,14 @@
 # Optimization
 ----------------------------------------
 - [ ] Optimize Network Speed
+  - [ ] HTML/JS/CSS/IMAGE Minification
+  - [ ] File compression
+    - [ ] gzip, brotli
+  - [ ] Reduce the number of requests
+  - [ ] Cache HTML/IMAGE by the server
+  - [ ] Reduce First Page CSS
+    - [ ] [Critical Path CSS Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
+  - [ ] Check Chrome dev tool to gauge performance
 - [ ] Optimize Rendering Speed
   - [ ] [Why you Shouldn’t Care About Google PageSpeed Insights](https://wp-rocket.me/blog/the-truth-about-google-pagespeed-insights/)
   - [ ] [Mobile Speed Check](https://www.thinkwithgoogle.com/feature/testmysite/)
