@@ -84,7 +84,6 @@
   - [ ] [Critical Path CSS Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
 - [ ] Check Chrome dev tool to gauge performance
 - [ ] Image Minification
-- [ ] Mobile
 
 ----------------------------------------
 # Deploy
@@ -96,7 +95,9 @@
   - [ ] Forbid Root Login
   - [ ] Make sure Firewall enabled
 - [ ] Deploy Developed App
+- [ ] Https
 - [ ] Cache setting
+- [ ] Update File Limit if necessary
 - [ ] Url normalization
 - [ ] Security
   - [ ] [Test secrity checker](https://securityheaders.com/)
@@ -106,39 +107,40 @@
   - [ ] ICMP
   - [ ] Server Auto Backup
   - [ ] DB Auto Backup
-- [ ] DB Optimization
-  - [ ] check if index is appropriate
-  - [ ] check if data amount increases would be a problem
+- [ ] SEO
+  - [ ] Title Tag
+  - [ ] Url Normalization
+    - transfer www to non www
+  - [ ] Meta Description
+  - [ ] Head Tag (h1, h2, ...)
+  - [ ] Markup
+  - [ ] Sitemap.xml
+  - [ ] Robots.txt
+  - [ ] Inner links
 
 ----------------------------------------
 # Optimization
 ----------------------------------------
-- [ ] Title Tag
-- [ ] Url Normalization
-  - transfer www to non www
-- [ ] Meta Description
-- [ ] Head Tag (h1, h2, ...)
-- [ ] Markup
-- [ ] Https
-- [ ] [Instant.page](https://instant.page/)
-- [ ] Rendering Speed
+- [ ] Optimize Network Speed
+- [ ] Optimize Rendering Speed
   - [ ] [Why you Shouldn’t Care About Google PageSpeed Insights](https://wp-rocket.me/blog/the-truth-about-google-pagespeed-insights/)
   - [ ] [Mobile Speed Check](https://www.thinkwithgoogle.com/feature/testmysite/)
   - [ ] [Web.dev](https://web.dev/measure/)
   - [ ] [WebpageTest](https://www.webpagetest.org/)
-- [ ] Sitemap.xml
-- [ ] Robots.txt
-- [ ] Inner links
-- [ ] Google Search Console
-- [ ] Google Analytics
-- [ ] Connect Google Analytics & Google Search Console
-- [ ] Hotjar
+  - [ ] [Instant.page](https://instant.page/)
+- [ ] Optimize DB Speed
+  - [ ] check if index is appropriate
+  - [ ] check if data amount increases would be a problem
 
 ----------------------------------------
 # Marketing
 ----------------------------------------
 - [ ] [Read How to find earliest users](http://bit.ly/2CwNvbI)
 - [ ] [PlacesToPostYourStartup](https://github.com/mrcrilly/PlacesToPostYourStartup)
+- [ ] Analytics
+  - [ ] Google Search Console
+  - [ ] Google Analytics
+  - [ ] Connect Google Analytics & Google Search Console
 - [ ] Create SNS Accounts
   - [ ] Twitter
   - [ ] Facebook Page
