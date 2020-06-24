@@ -89,6 +89,7 @@
   - [ ] Forbid PW Authentication
   - [ ] Forbid Root Login
   - [ ] Make sure Firewall enabled
+- [ ] Create sudo privilaged user
 - [ ] Deploy Developed App
 - [ ] Https
 - [ ] Cache setting
