@@ -135,6 +135,7 @@
 - [ ] Optimize DB Speed
   - [ ] check if index is appropriate
   - [ ] check if data amount increases would be a problem
+  - [ ] check if there is slow query
 
 ----------------------------------------
 # Marketing
