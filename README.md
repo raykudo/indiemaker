@@ -79,6 +79,8 @@
     - [Stocksy](https://www.stocksy.com/)
     - [Unsplash](https://unsplash.com/)
     - [Pixelmob](https://pixelmob.co/)
+  - Emoji
+    - [twemoji](https://github.com/twitter/twemoji)
 
 ----------------------------------------
 # Deploy
