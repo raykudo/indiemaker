@@ -82,7 +82,9 @@
   - Emoji
     - [twemoji](https://github.com/twitter/twemoji)
   - Privacy Policy
-    - [avodocs](https://www.avodocs.com/)
+    - [peptrics](https://www.peptrics.com/)
+  - Terms of Service
+  	- [avodocs](https://www.avodocs.com/)
 
 ----------------------------------------
 # Deploy
