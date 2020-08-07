@@ -81,6 +81,8 @@
     - [Pixelmob](https://pixelmob.co/)
   - Emoji
     - [twemoji](https://github.com/twitter/twemoji)
+  - Privacy Policy
+    - [avodocs](https://www.avodocs.com/)
 
 ----------------------------------------
 # Deploy
