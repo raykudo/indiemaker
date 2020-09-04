@@ -28,6 +28,7 @@
 # Community
 ----------------------------------------
 - [ProductHuntMakers](https://www.producthunt.com/makers)
+- [FreeForDev](https://free-for.dev/#/)
 
 ----------------------------------------
 # Design
